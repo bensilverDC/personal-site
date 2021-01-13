@@ -529,7 +529,7 @@ h4 {
   flex-wrap: wrap;
   background-color: #e98074;
   justify-content: space-around;
-  padding: 20px 10px 40px 10px;
+  padding: 50px 10px 50px 10px;
 }
 
 .trainings h2 {
@@ -547,6 +547,26 @@ h4 {
 
 .training-block img {
   width: 200px;
+}
+
+.skills {
+  background-color: #d8c3a5;
+  padding: 50px 10px 50px 10px;
+}
+
+.skills h2 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+.skills-chart {
+  width: 80%;
+  max-width: 960px;
+  height: 780px;
+  height: 788px;
+  margin: auto;
+  position: relative;
 }
 
 /* content page  */
